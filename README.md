@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI & robotics
 - 🌱 I’m currently learning Python
 - 📫 reach me i.twj.16@gmail.com
--print("hello world")
+-print("Hello" + name + "...")
